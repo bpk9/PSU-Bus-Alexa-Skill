@@ -1,13 +1,13 @@
 {
-  "name": "hello-world",
+  "name": "psu-bus-skill",
   "version": "1.1.0",
-  "description": "alexa utility for quickly building skills",
+  "description": "Alexa skill to find departure times for Penn State Campus Busses",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amazon Alexa",
-  "license": "ISC",
+  "author": "Brian Kasper",
+  "license": "N/A",
   "dependencies": {
     "ask-sdk-core": "^2.7.0",
     "ask-sdk-model": "^1.22.0",
